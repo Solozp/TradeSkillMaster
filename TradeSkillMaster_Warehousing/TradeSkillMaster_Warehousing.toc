@@ -12,15 +12,7 @@
 
 
 Locale\enUS.lua
-Locale\frFR.lua
-Locale\deDE.lua
-Locale\koKR.lua
-Locale\esMX.lua
 Locale\ruRU.lua
-Locale\zhCN.lua
-Locale\esES.lua
-Locale\zhTW.lua
-Locale\ptBR.lua
 
 TradeSkillMaster_Warehousing.lua
 Modules\options.lua

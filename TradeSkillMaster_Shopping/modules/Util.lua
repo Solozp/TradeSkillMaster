@@ -191,7 +191,7 @@ function private:PrepareForScan(callback, isLastPageScan)
 	private.callback = callback
 	wipe(private.auctions)
 	if private.isLastPageScan then
-		private.searchFrame.statusBar:SetStatusText("Scanning last page...")
+		private.searchFrame.statusBar:SetStatusText(L["Scanning last page..."])
 	else
 		private.searchFrame.statusBar:SetStatusText(L["Preparing filters..."])
 	end

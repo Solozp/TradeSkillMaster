@@ -33,7 +33,7 @@ Libs\AccurateTime\AccurateTime.lua
 Libs\LibExtraTip\Load.xml
 
 Locale\enUS.lua
-Locale\deDE.lua
+Locale\ruRU.lua
 
 TradeSkillMaster.lua
 

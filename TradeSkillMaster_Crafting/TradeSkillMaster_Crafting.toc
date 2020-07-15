@@ -11,15 +11,7 @@
 ## X-Curse-Repository-ID: wow/tradeskillmaster_crafting/mainline
 
 Locale\enUS.lua
-Locale\deDE.lua
-Locale\esES.lua
-Locale\esMX.lua
-Locale\frFR.lua
-Locale\koKR.lua
 Locale\ruRU.lua
-Locale\zhCN.lua
-Locale\zhTW.lua
-Locale\ptBR.lua
 
 TradeSkillMaster_Crafting.lua
 

@@ -117,13 +117,13 @@ function private.Create(parent)
 	-- row 7 - usable / exact
 	y = y + 60
 	local usableCheckBox = TSMAPI.GUI:CreateCheckBox(frame, L["If set, only items which are usable by your character will be included in the results."])
-	usableCheckBox:SetLabel("Usable")
+	usableCheckBox:SetLabel(L["Usable"])
 	usableCheckBox:SetPoint("TOPLEFT", 5, -y)
 	usableCheckBox:SetWidth((frame:GetWidth()/2)-5)
 	frame.usableCheckBox = usableCheckBox
 	
 	local exactCheckBox = TSMAPI.GUI:CreateCheckBox(frame, L["If set, only items which exactly match the search filter you have set will be included in the results."])
-	exactCheckBox:SetLabel("Exact")
+	exactCheckBox:SetLabel(L["Exact"])
 	exactCheckBox:SetPoint("TOPRIGHT", 5, -y)
 	exactCheckBox:SetWidth((frame:GetWidth()/2)-5)
 	frame.exactCheckBox = exactCheckBox
